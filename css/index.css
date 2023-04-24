@@ -4,7 +4,6 @@ body {
     sans-serif;
     font-size: calc(10px + 0.33vw);
     -webkit-font-smoothing: antialiased;
-    padding: 5vh 10vw;
     color: #121314;
 }
 
@@ -73,4 +72,5 @@ a:hover:after {
     /*margin-left: -160px;*/
     /*margin-top: -160px;*/
     user-select: none;
+    padding: 5vh 10vw;
 }
