@@ -46,7 +46,9 @@ a:after {
 .a-react:after {
     background-color: rgba(0, 116, 166, 0.5);
 }
-
+.a-blog:after {
+    background-color: rgba(85, 85, 85, 0.5);
+}
 .a-github:after {
     background-color: rgba(36, 41, 47, 0.5);
 }
